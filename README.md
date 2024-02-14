@@ -16,7 +16,7 @@ docker start  spark0
 
 To copy a file from local to a container
 
-docker cp sparko:/opt [file name] 
+docker cp  [local file name] sparko:/opt
 
 Connect to a container
 
